@@ -1,2 +1,2 @@
-# Sarung
+# Saring
 Kumpulan Project Latihan
